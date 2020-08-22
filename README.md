@@ -12,7 +12,7 @@ I'm college student studying **software engineering** 👨‍💻
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayongbz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔭 I’m currently working on
-- Nope! I'm college student.
+- just studying java
 
 ### 🌱 I’m currently learning
 - java
