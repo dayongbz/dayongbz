@@ -7,7 +7,9 @@ I'm college student studying **software engineering** 👨‍💻
 
  <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/utilforever/)](https://twitter.com/utilforever/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chan-ho-ohk-3a902a80/)](https://www.linkedin.com/in/chan-ho-ohk-3a902a80/) -->
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayongbz)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayongbz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayongbz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔭 I’m currently working on
 - Nope! I'm college student.
