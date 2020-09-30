@@ -16,9 +16,8 @@ I'm college student studying **software engineering** 👨‍💻
 
 ### 🌱 I’m currently learning
 - java
-- react, javascript
-- git
-- cs 50 computer science
+- SQL
+- Reading "one up on wall street"
 
 <!-- ### 👯 I’m looking to collaborate on
 - Nope!
