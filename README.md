@@ -22,7 +22,7 @@ I will be discharged from the military in 2022/07/24 😞
 
 ### 📖 I'm currently reading
 - one up on wall street
-- 자바의 신 1권
+- 자바의 신 2권
 
 <!-- ### 👯 I’m looking to collaborate on
 - Nope!
