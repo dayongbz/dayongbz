@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hi%20there%20I'm%20Dayong%20Lee&animation=fadeIn&fontColor=c9d1d9&height=200&color=timeGradient)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Dayong%20Lee&animation=fadeIn&fontColor=eee&height=200&color=timeGradient)
 
 # dayongkr
 
