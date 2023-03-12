@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Dayong%20Lee&animation=fadeIn&fontColor=eee&height=200&color=1abc9c)
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&text=Dayong%20Lee%20-%20dayongkr&animation=fadeIn&fontColor=eee&height=200&color=1abc9c)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=1ABC9C&center=true&vCenter=true&width=435&lines=Let's+smile+and+be+positive!)](https://git.io/typing-svg)
 
 # dayongkr
 
@@ -10,3 +14,4 @@
 
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdayongkr&count_bg=%231ABC9C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+</div>
